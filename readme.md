@@ -22,12 +22,90 @@ La solución digital debe:
 
 ---
 
-## Proceso de Desarrollo
+# Proceso de Desarrollo (Día 1)
+
+## **Descubrimiento e Investigación**
 
 ### Research
 
 El Journey otorgado por la misma entidad bancaria eran los siguientes:
 
-![](assets/img/img1.png)  
+![](assets/img/img1.png)
 
-![](assets/img/img2.png) 
+En base a este journey iniciamos el proceso de ideación de la plataforma para cumplir con el siguiente journey:
+
+![](assets/img/img2.png)
+
+### Entrevistas
+
+Al tener sólo  dos días para realizar el proceso obtamos por hacer las entrevistas a dos gerentes de área del banco vía telefónica y a los colaboradores del Centro de Innovación de manera presencial.
+
+Usuarios entrevistados: 
+
+* Kary - Gerente de PYMES
+* Hernesto - Gerente Banca por Internet
+* Jorge - CIX
+
+![](assets/img/cuestionario.png)
+
+## **Síntesis y Definición**
+
+### Resumen de entrevistas
+
+![](assets/img/respuestas.png)
+
+### Affinity Map
+
+En base a las entrevistas logramos identificar las principales características y necesidades de los usuarios.
+
+![](assets/img/diagrama-1.jpeg)
+
+Luego de analizar las respuestas brindadas por los gerentes de área, identificamos nuestro flujo crítico:
+
+* Mostrar de forma clara y ágil la información de los proyectos.
+* Comunicación en tiempo real con el Centro de Innovación.
+* Agrupar los proyectos según el interés de cada área.
+* Guardar el historial de búsqueda (agregar a favoritos).
+* Generar alertas.
+* Visualizar el avance del proyecto en ejecución.
+
+### User Persona
+
+La plataforma debía cumplir con dos perfiles: El principal sería el usuario de las diversas áreas del banco, el secundario sería los colaboradores del CIX encargados de subir toda la información de los proyectos para que sean visualizados por los gerentes. Nuestro user persona está basado en el flujo crítico de nuestro affinity map.
+
+![](assets/img/userpersona.png)
+
+# Proceso de Desarrollo (Día 2)
+
+## **Ideación**
+
+![](assets/img/prototype.jpg)
+
+Aquí algunas imágenes del flujo principal
+
+![](assets/img/sketch.png)
+
+## **Testing**
+
+Se realizó el testeo con Kari (Gerente de PYMES) del prototipo en papel y estos fueron los insight principales:
+
+* Mejorar la parte inicial, una pequeña presentación sobre el concepto de la plataforma.
+* Bastante fácil e intuitiva.
+* Añadir más información en la presentación de cada proyecto.
+* Le gustaría que tenga un chat para comunicarse directamente con el CIX.
+* La recomendaría a otros gerentes.
+
+![](assets/img/testing.jpeg)
+
+## **Prototipo en alta fidelidad**
+
+![](assets/img/flujo.png)
+
+[Ver demo completa](https://marvelapp.com/38h9jd2)
+
+### Equipo de Trabajo
+
+* Yoanna Hernandez
+* Mariela Cerna
+* Anais Olivares
+* Lourdes Loayza
