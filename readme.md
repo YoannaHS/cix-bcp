@@ -1,4 +1,5 @@
 # CIX - BCP
+
 Es una plataforma digital interna desarrollada para el Banco de Crédito del Perú [BCP](https://www.viabcp.com/wps/portal/Home/nosotros). Permite mostrar los diferentes proyectos que maneja el Centro de Innovación del banco a todas la áreas internas que requieran mejoras en sus procesos.
 
 ![image](https://user-images.githubusercontent.com/32310691/38405899-dbb00dfc-3937-11e8-97e8-55d74006e093.png)
