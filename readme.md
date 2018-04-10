@@ -20,8 +20,6 @@ La solución digital debe:
 + Empoderar a los gerentes a emprender nuevos proyectos con el ecosistema
 + Hacer que los gerentes "crean" el valor que trae la innovación abierta
 
----
-
 ## **Proceso de Desarrollo (Día 1)**
 
 ## _Descubrimiento e Investigación_
