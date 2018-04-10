@@ -5,7 +5,7 @@ Es una plataforma digital interna desarrollada para el Banco de Crédito del Per
 
 ## Desarrollado para [Laboratoria](http://www.laboratoria.la/)
 
-## El Reto
+### El Reto
 
 El Banco de Crédito del Perú, en adelante BCP. Es el banco más grande y el proveedor líder de servicios financieros integrados en el Perú, sin embargo no basta con ser un banco líder en el rubro, se necesita innovar y romper paradigmas, promover una cultura colaborativa centrada en las personas y dar paso a la Transformación Digital.
 
@@ -22,7 +22,7 @@ La solución digital debe:
 
 ## **Proceso de Desarrollo (Día 1)**
 
-## _Descubrimiento e Investigación_
+# _Descubrimiento e Investigación_
 
 ### Research
 
@@ -46,7 +46,7 @@ Usuarios entrevistados:
 
 ![](assets/img/cuestionario.png)
 
-## _Síntesis y Definición_
+# _Síntesis y Definición_
 
 ### Resumen de entrevistas
 
@@ -75,7 +75,7 @@ La plataforma debía cumplir con dos perfiles: El principal sería el usuario de
 
 ## **Proceso de Desarrollo (Día 2)**
 
-## _Ideación_
+# _Ideación_
 
 ![](assets/img/prototype.jpg)
 
@@ -83,7 +83,7 @@ Aquí algunas imágenes del flujo principal
 
 ![](assets/img/sketch.png)
 
-## _Testing_
+# _Testing_
 
 Se realizó el testeo con Kari (Gerente de PYMES) del prototipo en papel y estos fueron los insight principales:
 
@@ -95,7 +95,7 @@ Se realizó el testeo con Kari (Gerente de PYMES) del prototipo en papel y estos
 
 ![](assets/img/testing.jpeg)
 
-## _Prototipo en alta fidelidad_
+# _Prototipo en alta fidelidad_
 
 ![](assets/img/flujo.png)
 
