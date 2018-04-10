@@ -1,6 +1,6 @@
 # CIX - BCP
 
-Es una plataforma digital interna desarrollada para el Banco de Crédito del Perú [BCP](https://www.viabcp.com/wps/portal/Home/nosotros). Permite mostrar los diferentes proyectos que maneja el Centro de Innovación del banco a todas la áreas internas que requieran mejoras en sus procesos.
+Es una plataforma digital interna desarrollada para el Banco de Crédito del Perú. Permite mostrar los diferentes proyectos que maneja el Centro de Innovación del banco a todas la áreas internas que requieran mejoras en sus procesos.
 
 ![image](https://user-images.githubusercontent.com/32310691/38405899-dbb00dfc-3937-11e8-97e8-55d74006e093.png)
 
@@ -23,7 +23,7 @@ La solución digital debe:
 
 ## **Proceso de Desarrollo (Día 1)**
 
-# _Descubrimiento e Investigación_
+## _Descubrimiento e Investigación_
 
 ### Research
 
@@ -47,7 +47,7 @@ Usuarios entrevistados:
 
 ![](assets/img/cuestionario.png)
 
-# _Síntesis y Definición_
+## _Síntesis y Definición_
 
 ### Resumen de entrevistas
 
@@ -76,7 +76,7 @@ La plataforma debía cumplir con dos perfiles: El principal sería el usuario de
 
 ## **Proceso de Desarrollo (Día 2)**
 
-# _Ideación_
+## _Ideación_
 
 ![](assets/img/prototype.jpg)
 
@@ -84,7 +84,7 @@ Aquí algunas imágenes del flujo principal
 
 ![](assets/img/sketch.png)
 
-# _Testing_
+## _Testing_
 
 Se realizó el testeo con Kari (Gerente de PYMES) del prototipo en papel y estos fueron los insight principales:
 
@@ -96,7 +96,7 @@ Se realizó el testeo con Kari (Gerente de PYMES) del prototipo en papel y estos
 
 ![](assets/img/testing.jpeg)
 
-# _Prototipo en alta fidelidad_
+## _Prototipo en alta fidelidad_
 
 ![](assets/img/flujo.png)
 
