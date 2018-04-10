@@ -22,9 +22,9 @@ La solución digital debe:
 
 ---
 
-# Proceso de Desarrollo (Día 1)
+## **Proceso de Desarrollo (Día 1)**
 
-## **Descubrimiento e Investigación**
+## _Descubrimiento e Investigación_
 
 ### Research
 
@@ -48,7 +48,7 @@ Usuarios entrevistados:
 
 ![](assets/img/cuestionario.png)
 
-## **Síntesis y Definición**
+## _Síntesis y Definición_
 
 ### Resumen de entrevistas
 
@@ -75,9 +75,9 @@ La plataforma debía cumplir con dos perfiles: El principal sería el usuario de
 
 ![](assets/img/userpersona.png)
 
-# Proceso de Desarrollo (Día 2)
+## **Proceso de Desarrollo (Día 2)**
 
-## **Ideación**
+## _Ideación_
 
 ![](assets/img/prototype.jpg)
 
@@ -85,7 +85,7 @@ Aquí algunas imágenes del flujo principal
 
 ![](assets/img/sketch.png)
 
-## **Testing**
+## _Testing_
 
 Se realizó el testeo con Kari (Gerente de PYMES) del prototipo en papel y estos fueron los insight principales:
 
@@ -97,7 +97,7 @@ Se realizó el testeo con Kari (Gerente de PYMES) del prototipo en papel y estos
 
 ![](assets/img/testing.jpeg)
 
-## **Prototipo en alta fidelidad**
+## _Prototipo en alta fidelidad_
 
 ![](assets/img/flujo.png)
 
